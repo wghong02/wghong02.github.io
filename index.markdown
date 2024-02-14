@@ -3,10 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: Home
+title: Hello, welcome to my website!
 ---
 
-# Hello, welcome to my website!
+![](/assets/pfp.jpg)
 
 My name is Wanchen, you can also call me Gilbert!
 - 🎓 BA/MA student in mathematics and statistics at [Boston University](https://www.bu.edu/)
@@ -15,3 +15,5 @@ My name is Wanchen, you can also call me Gilbert!
 - 📫 How to reach me: wghong@bu.edu
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: big soccer fan! Hala Madrid!
+
+You can find my current resume [here](/assets/resume.pdf){:target="_blank"}.
