@@ -1,12 +1,10 @@
 ---
 layout: page
-title: Project
+title: Welcome to my projects!
 permalink: /project/
 ---
 
-# My Projects
-
-Welcome to my projects! Here are some of the projects I've worked on:
+Here are some projects I have worked on:
 
 **San Francisco Crime Analysis in Apache Spark**
 * This projects uses San Francisco Crime data from 2003 to present to study and model crimes in the area, using big data OLAP techniques with Spark, to discover possible interesting trends as well as developing possible models for the number of crimes in the area. During the process, a data processing pipeline is set up using Spark RDD, a K-means model and a time series model are established attempting to understand the number of crimes in the area in terms of geographical relationships and relationships in time.
