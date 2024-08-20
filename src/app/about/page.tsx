@@ -1,7 +1,10 @@
 export default function ProjectPage() {
 	return (
 		<div className="flex flex-col items-center justify-center">
-			<img src="/assets/pfp.jpg" alt="Profile Picture" width="250px" />
+			<h1 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-5xl pb-8">
+				About Me
+			</h1>
+			<img src="/assets/pfp.jpg" alt="Profile Picture" className="w-56"/>
 
 			<ul className="font-roboto list-disc pt-4">
 				<li className="pt-2 ">
