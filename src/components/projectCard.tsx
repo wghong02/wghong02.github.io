@@ -16,7 +16,7 @@ export const ProjectCard = ({
 	repo: string;
 }) => {
 	return (
-		<div className="min-w-96 max-w-sm flex flex-col justify-between rounded overflow-hidden shadow-lg bg-white ">
+		<div className="min-w-96 max-w-md flex flex-col justify-between rounded overflow-hidden shadow-lg bg-white">
 			{/* Title Section */}
 			<div className="px-6 py-4">
 				<div className="font-bold text-xl mb-2">{title}</div>
@@ -25,7 +25,7 @@ export const ProjectCard = ({
 			{/* Picture Section */}
 			{imageSrc != "" && (
 				<div className="flex justify-center pb-2">
-					<img className="w-[80%]" src={imageSrc} alt={title} />
+					<img className="w-[80%] max-h-80 object-contain" src={imageSrc} alt={title} />
 				</div>
 			)}
 

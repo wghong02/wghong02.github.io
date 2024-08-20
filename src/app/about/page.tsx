@@ -4,9 +4,13 @@ export default function ProjectPage() {
 			<h1 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-5xl pb-8">
 				About Me
 			</h1>
-			<img src="/assets/pfp.jpg" alt="Profile Picture" className="w-56"/>
+			<img
+				src="/assets/pfp.jpg"
+				alt="Profile Picture"
+				className="w-56 rounded-full"
+			/>
 
-			<ul className="font-roboto list-disc pt-4">
+			<ul className="w-[80%] font-roboto list-disc pt-4">
 				<li className="pt-2 ">
 					I am studying computer science & physics and mathematics & statistics
 					at Boston University.
