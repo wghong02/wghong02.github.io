@@ -10,7 +10,7 @@ export default function ProjectPage() {
 				className="w-56 rounded-full"
 			/>
 
-			<ul className="w-[80%] font-roboto list-disc pt-4">
+			<ul className="w-[80%] flex flex-col items-center justify-center font-roboto list-none pt-4">
 				<li className="pt-2 ">
 					I am studying computer science & physics and mathematics & statistics
 					at Boston University.
