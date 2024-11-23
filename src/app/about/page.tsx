@@ -44,7 +44,7 @@ export default function ProjectPage() {
 				<li className="pt-2">
 					You can find my current resume{" "}
 					<a
-						href="/assets/Resume SWE FT.pdf"
+						href="/assets/Resume SWE.pdf"
 						target="_blank"
 						rel="noopener noreferrer"
 						className=" hover:underline text-black hover:text-blue-500"
