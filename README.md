@@ -15,14 +15,15 @@ Pages live under `src/app/` (App Router). Each route is a folder with a `page.ts
 | `/experience` | Experience |
 | `/projects` | Projects |
 | `/apps/policy/serenest` | Privacy policy for the Serenest iOS app |
+| `/apps/support/serenest` | Support / contact page for the Serenest iOS app |
 
 Shared UI (e.g. the header) lives in `src/components/`, and global styles in `src/styles/`.
 
-### App privacy policies
+### App pages
 
-Privacy policies for published apps are hosted here under `/apps/policy/<app>`. These URLs are referenced from the apps' App Store Connect listings, so the routes must stay live:
+Privacy policy and support pages for published apps are hosted here under `/apps/<type>/<app>`. These URLs are referenced from the apps' App Store Connect listings, so the routes must stay live:
 
-- **Serenest** — https://wghong02.github.io/apps/policy/serenest
+- **Serenest** — privacy: https://wghong02.github.io/apps/policy/serenest · support: https://wghong02.github.io/apps/support/serenest
 
 ## Getting Started
 
