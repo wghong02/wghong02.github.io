@@ -1,6 +1,6 @@
 # wghong02.github.io
 
-Personal website for Wanchen Hong, built with [Next.js](https://nextjs.org/) (App Router) and [Tailwind CSS](https://tailwindcss.com/), statically exported and hosted on GitHub Pages.
+Personal website for Gilbert Hong, built with [Next.js](https://nextjs.org/) (App Router) and [Tailwind CSS](https://tailwindcss.com/), statically exported and hosted on GitHub Pages.
 
 **Live site:** https://wghong02.github.io
 

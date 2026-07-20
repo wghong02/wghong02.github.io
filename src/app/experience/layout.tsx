@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 export const metadata: Metadata = {
 	title: "Experience",
-	description: "Wanchen's Experience",
+	description: "Gilbert's Experience",
 };
 
 const ExperienceLayout = ({ children }: { children: React.ReactNode }) => {

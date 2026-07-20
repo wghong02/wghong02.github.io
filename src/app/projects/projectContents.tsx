@@ -1,13 +1,12 @@
 export const ProjectContents = [
 	{
 		title: "Postare",
-		imageSrc: "/assets/postare.png",
+		imageSrc: "/assets/Postare.png",
 		body: `Postare a full-stack web application that serves as a visual discovery engine, 
         allowing users to explore, save, and organize image posts seamlessly. The platform 
         ensures a secure and intuitive environment for users to share and discover creative ideas.`,
 		toolsUsed:
 			"Backend: Go, Java Spring, PostgreSQL \n Frontend: Next.js, CharkraUI \n Cloud: AWS RDS, ECR and EC2",
-		url: "http://3.133.130.137:3000",
 		repo: "https://github.com/wghong02/postare",
 	},
 	{

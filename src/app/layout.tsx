@@ -6,14 +6,14 @@ import Header from "@/components/header";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-	applicationName:"Wanchen Hong",
+	applicationName:"Gilbert Hong",
 	title:{
-		template: '%s | Wanchen Hong',
-		default: 'Wanchen Hong',
+		template: '%s | Gilbert Hong',
+		default: 'Gilbert Hong',
 	  },
-	description: "Wanchen Hong's Personal Website",
-	keywords: ["Wanchen Hong", "Wanchen", "Hong"],
-	creator: 'Wanchen Hong',
+	description: "Gilbert Hong's Personal Website",
+	keywords: ["Gilbert Hong", "Gilbert", "Hong"],
+	creator: 'Gilbert Hong',
 };
 
 export default function RootLayout({
