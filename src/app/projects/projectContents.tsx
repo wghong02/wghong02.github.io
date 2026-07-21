@@ -7,6 +7,7 @@ export const ProjectContents = [
         ensures a secure and intuitive environment for users to share and discover creative ideas.`,
 		toolsUsed:
 			"Backend: Go, Java Spring, PostgreSQL \n Frontend: Next.js, CharkraUI \n Cloud: AWS RDS, ECR and EC2",
+		url: "",
 		repo: "https://github.com/wghong02/postare",
 	},
 	{
